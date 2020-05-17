@@ -3,4 +3,4 @@
 
 Just unzip it into ckeditor folder "plugins-external". 
 
-In standard FA-Plugin please disable 'auto' - otherwise in FA4 30% of plugins are grayed out. 
+In standard FA-Plugin please disable 'auto' - otherwise (in some cases) in FA4 30% of plugins are grayed out. 
