@@ -11,5 +11,5 @@ In standard FA-Plugin please disable 'auto' - otherwise (in some cases) in FA4 3
 
 * or in the template-head with  <link rel="stylesheet" type="text/css" href="./assets/all.min.css"> <style>   or in the head with 
 
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css">
+< link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css" >
 
