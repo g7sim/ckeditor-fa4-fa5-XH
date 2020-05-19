@@ -13,3 +13,5 @@ In standard FA-Plugin please disable 'auto' - otherwise (in some cases) in FA4 3
 
 < link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css" >
 
+The code is from https://github.com/FortAwesome/Font-Awesome/releases/download/5.13.0/fontawesome-free-5.13.0-web.zip
+
